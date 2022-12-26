@@ -1,0 +1,54 @@
+body{margin: 0px auto;
+    padding: 0px;
+  background-color: rgb(220, 55, 253);
+  color: white;
+    
+    
+}
+
+#mainDiv{background-color: rgb(112, 24, 212);
+    width: 394px;
+    margin: auto;
+    height: 500px;
+    margin-top: 20px;
+    
+
+}
+
+#profile{width: 109px;
+margin-left: 145px;
+margin-top: 26px;
+
+
+}
+
+h1{text-align: center;
+    margin-top: -8px;
+    color: white;
+}
+
+#userInfo{margin-left: 50px;
+
+}
+
+#loginButton {
+    padding: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 20px;
+    margin-left: 159px;
+    margin-top: 24px;
+}
+
+#forget{color: rgb(191, 247, 35);
+    margin-left: 143px;
+}
+
+img {
+    opacity: 2.5;
+    margin-left: -24px;
+    
+}
+#account{width: 20px;}
+
+#lock{width:20px;}
